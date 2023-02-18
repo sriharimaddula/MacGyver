@@ -1,7 +1,7 @@
 <h1 align="center">MacGyver</h1></br>
 
 <p align="center"> 
-🤖 A simple application using Google's MLkit library and cameraX api.
+🤖 A simple application using Google's MLkit library and cameraX api. For test
 </p>
 
 <p align="center">
